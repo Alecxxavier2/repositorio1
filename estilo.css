@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    background-color: aqua;
+
+}
+
+aside {
+    flex: 2;
+}
+
+main {
+    flex 6
+}
